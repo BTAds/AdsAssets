@@ -1,6 +1,6 @@
 {
-    "placements": {
-        "p0": {
+    "placements": [
+        {
             "link": {
                 "url": "http://google.com",
                 "androidPackageId": "cn.bahamut.game.rollingballz",
@@ -14,5 +14,5 @@
                 "adVideoUrl": "BTAdsVideo/RollingBallz.mp4"
             }
         }
-    }
+    ]
 }
