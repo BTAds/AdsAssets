@@ -9,9 +9,9 @@
                 "IOSPackageId": "cn.bahamut.game.rollingballz"
             },
             "AdContent": {
-                "AdImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.png",
-                "AdVideoThumbUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.png",
-                "AdVideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4"
+                "AdImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.png",
+                "AdVideoThumbUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.png",
+                "AdVideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4"
             }
         }
     ]
