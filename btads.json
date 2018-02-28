@@ -1,0 +1,18 @@
+{
+    "placements": {
+        "p0": {
+            "link": {
+                "url": "http://google.com",
+                "androidPackageId": "cn.bahamut.game.rollingballz",
+                "iOSUrlScheme": "btgame1317518650",
+                "iOSAppId": "1317518650",
+                "iOSPackageId": "cn.bahamut.game.rollingballz"
+            },
+            "adContent": {
+                "adImageUrl": "BTAdsImage/RollingBallz.png",
+                "adVideoThumbUrl": "BTAdsImage/RollingBallz.png",
+                "adVideoUrl": "BTAdsVideo/RollingBallz.mp4"
+            }
+        }
+    }
+}
