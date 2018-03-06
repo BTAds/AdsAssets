@@ -13,19 +13,19 @@
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
             "Priority": 10,
-            "Limit": "",
+            "Limit": "5/1d",
             "LinkButton": {
-                "ButtonColor": "",
-                "TextTerm": "",
-                "TextColor": ""
+                "ButtonColor": "#0000ffff",
+                "TextTerm": "BTAdsLinkButtonInstallNow,BTAdsLinkButtonPlayNow",
+                "TextColor": "#ff0000ff"
             }
         }
     ],
     "Placements": [
         {
             "PlacementId": "Opening",
-            "IntervalLimit": "",
-            "Limit": ""
+            "IntervalLimit": "2h",
+            "Limit": "10/1d"
         }
     ]
 }
