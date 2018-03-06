@@ -1,6 +1,7 @@
 {
     "VideoAdContents": [
         {
+            "ContentId": "RollingBallz",
             "Link": {
                 "Url": "https://www.taptap.com/app/70412",
                 "AndroidPackageId": "cn.bahamut.game.rollingballz",
