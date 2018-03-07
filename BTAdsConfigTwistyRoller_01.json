@@ -13,6 +13,26 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
+            "Priority": 20,
+            "Limit": "",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "BinBalls",
+            "Link": {
+                "Url": "https://www.taptap.com/app/77780",
+                "AndroidPackageId": "cn.bahamut.game.binballs",
+                "IOSUrlScheme": "btgame1337445800",
+                "IOSAppId": "1337445800",
+                "IOSPackageId": "cn.bahamut.game.binballs"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/BinBalls.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
             "Priority": 10,
             "Limit": "",
             "LinkButton": {

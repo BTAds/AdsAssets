@@ -13,6 +13,26 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
+            "Priority": 20,
+            "Limit": "",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "TwistyRoller",
+            "Link": {
+                "Url": "https://www.taptap.com/app/79054",
+                "AndroidPackageId": "cn.bahamut.game.rollingcoaster",
+                "IOSUrlScheme": "btgame1341336378",
+                "IOSAppId": "1341336378",
+                "IOSPackageId": "cn.bahamut.game.rollingcoaster"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
             "Priority": 10,
             "Limit": "",
             "LinkButton": {
