@@ -1,0 +1,32 @@
+{
+    "ConfigVersion": 1,
+    "VideoAdContents": [
+        {
+            "ContentId": "RollingBallz",
+            "Link": {
+                "Url": "https://www.taptap.com/app/70412",
+                "AndroidPackageId": "cn.bahamut.game.rollingballz",
+                "IOSUrlScheme": "btgame1317518650",
+                "IOSAppId": "1317518650",
+                "IOSPackageId": "cn.bahamut.game.rollingballz"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
+            "Priority": 10,
+            "Limit": "",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        }
+    ],
+    "Placements": [
+        {
+            "PlacementId": "Opening",
+            "IntervalLimit": "",
+            "Limit": ""
+        }
+    ]
+}
