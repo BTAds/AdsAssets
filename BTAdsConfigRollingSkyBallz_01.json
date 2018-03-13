@@ -46,7 +46,7 @@
         {
             "PlacementId": "Opening",
             "IntervalLimit": "",
-            "Limit": ""
+            "Limit": "2/1d"
         }
     ]
 }
