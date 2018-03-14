@@ -13,7 +13,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
-            "Priority": 20,
+            "Priority": 10,
             "Limit": "",
             "LinkButton": {
                 "ButtonColor": "",
@@ -33,7 +33,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
-            "Priority": 10,
+            "Priority": 20,
             "Limit": "",
             "LinkButton": {
                 "ButtonColor": "",
