@@ -14,7 +14,7 @@
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
             "Priority": 10,
-            "Limit": "",
+            "Limit": "2/2d",
             "LinkButton": {
                 "ButtonColor": "",
                 "TextTerm": "",
@@ -34,7 +34,7 @@
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
             "Priority": 20,
-            "Limit": "",
+            "Limit": "2/2d",
             "LinkButton": {
                 "ButtonColor": "",
                 "TextTerm": "",
@@ -46,7 +46,7 @@
         {
             "PlacementId": "Opening",
             "IntervalLimit": "",
-            "Limit": "2/1d"
+            "Limit": "7/7d"
         }
     ]
 }
