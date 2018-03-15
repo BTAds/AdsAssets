@@ -40,6 +40,26 @@
                 "TextTerm": "",
                 "TextColor": ""
             }
+        },
+        {
+            "ContentId": "SkyJump",
+            "Link": {
+                "Url": "market://details?id=cn.bahamut.game.skyjump",
+                "AndroidPackageId": "cn.bahamut.game.skyjump",
+                "IOSUrlScheme": "btgame1358100456",
+                "IOSAppId": "1358100456",
+                "IOSPackageId": "cn.bahamut.game.skyjump"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump.mp4",
+            "Priority": 30,
+            "Limit": "2/2d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
         }
     ],
     "Placements": [
