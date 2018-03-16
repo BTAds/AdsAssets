@@ -54,7 +54,7 @@
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump.mp4",
             "Priority": 30,
-            "Limit": "2/2d",
+            "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
                 "TextTerm": "",
@@ -66,7 +66,7 @@
         {
             "PlacementId": "Opening",
             "IntervalLimit": "",
-            "Limit": "7/7d"
+            "Limit": "10/7d"
         }
     ]
 }
