@@ -6,7 +6,7 @@
             "Link": {
                 "Url": "https://www.taptap.com/app/70412",
                 "AndroidPackageId": "cn.bahamut.game.rollingballz",
-                "IOSUrlScheme": "btgame1317518650",
+                "IOSUrlScheme": "btgame1317518650://",
                 "IOSAppId": "1317518650",
                 "IOSPackageId": "cn.bahamut.game.rollingballz"
             },
@@ -26,7 +26,7 @@
             "Link": {
                 "Url": "https://www.taptap.com/app/79054",
                 "AndroidPackageId": "cn.bahamut.game.rollingcoaster",
-                "IOSUrlScheme": "btgame1341336378",
+                "IOSUrlScheme": "btgame1341336378://",
                 "IOSAppId": "1341336378",
                 "IOSPackageId": "cn.bahamut.game.rollingcoaster"
             },
@@ -46,7 +46,7 @@
             "Link": {
                 "Url": "market://details?id=cn.bahamut.game.skyjump",
                 "AndroidPackageId": "cn.bahamut.game.skyjump",
-                "IOSUrlScheme": "btgame1358100456",
+                "IOSUrlScheme": "btgame1358100456://",
                 "IOSAppId": "1358100456",
                 "IOSPackageId": "cn.bahamut.game.skyjump"
             },
