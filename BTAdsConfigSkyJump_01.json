@@ -2,6 +2,26 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
+            "ContentId": "TwistyRush",
+            "Link": {
+                "Url": "https://itunes.apple.com/app/id1370929810",
+                "AndroidPackageId": "cn.bahamut.game.colorballsroad",
+                "IOSUrlScheme": "btgame1370929810://",
+                "IOSAppId": "1370929810",
+                "IOSPackageId": "cn.bahamut.game.colorballsroad"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
+            "Priority": 50,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "RollingBallz",
             "Link": {
                 "Url": "https://www.taptap.com/app/70412",
