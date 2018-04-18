@@ -33,7 +33,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
-            "Priority": 50,
+            "Priority": 25,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -73,7 +73,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump.mp4",
-            "Priority": 30,
+            "Priority": 50,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
