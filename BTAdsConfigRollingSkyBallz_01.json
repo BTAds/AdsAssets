@@ -13,7 +13,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump.mp4",
-            "Priority": 60,
+            "Priority": 55,
             "Limit": "4/2d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -105,6 +105,11 @@
     "Placements": [
         {
             "PlacementId": "Opening",
+            "IntervalLimit": "",
+            "Limit": "10/7d"
+        },
+        {
+            "PlacementId": "Default",
             "IntervalLimit": "",
             "Limit": "10/7d"
         }
