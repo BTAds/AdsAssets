@@ -14,7 +14,7 @@
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump.mp4",
             "Priority": 60,
-            "Limit": "0/2d",
+            "Limit": "2/1d",
             "LinkButton": {
                 "ButtonColor": "",
                 "TextTerm": "",
