@@ -1,0 +1,107 @@
+{
+    "ConfigVersion": 1,
+    "Items": [
+        {
+            "ItemId": "RollyJump",
+            "AppLink": {
+                "Url": "https://itunes.apple.com/cn/app/id1372395478?mt=8",
+                "AndroidPackageId": "cn.bahamut.game.hophophop",
+                "IOSUrlScheme": "btgame1372395478://",
+                "IOSAppId": "1372395478",
+                "IOSPackageId": "cn.bahamut.game.hophophop"
+            },
+            "VideoLoop": false,
+            "CoverUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump.mp4",
+            "Priority": 60,
+            "VideoType": 1,
+            "Labels": 0,
+            "Stars": 5
+        },
+        {
+            "ItemId": "RollingBallz",
+            "AppLink": {
+                "Url": "https://www.taptap.com/app/70412",
+                "AndroidPackageId": "cn.bahamut.game.rollingballz",
+                "IOSUrlScheme": "btgame1317518650://",
+                "IOSAppId": "1317518650",
+                "IOSPackageId": "cn.bahamut.game.rollingballz"
+            },
+            "VideoLoop": false,
+            "CoverUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
+            "Priority": 60,
+            "VideoType": 1,
+            "Labels": 0,
+            "Stars": 5
+        },
+        {
+            "ItemId": "TwistyRush",
+            "AppLink": {
+                "Url": "https://itunes.apple.com/app/id1370929810",
+                "AndroidPackageId": "cn.bahamut.game.colorballsroad",
+                "IOSUrlScheme": "btgame1370929810://",
+                "IOSAppId": "1370929810",
+                "IOSPackageId": "cn.bahamut.game.colorballsroad"
+            },
+            "VideoLoop": false,
+            "CoverUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
+            "Priority": 50,
+            "VideoType": 1,
+            "Labels": 0,
+            "Stars": 5
+        },
+        {
+            "ItemId": "TwistyRoller",
+            "AppLink": {
+                "Url": "https://www.taptap.com/app/79054",
+                "AndroidPackageId": "cn.bahamut.game.rollingcoaster",
+                "IOSUrlScheme": "btgame1341336378://",
+                "IOSAppId": "1341336378",
+                "IOSPackageId": "cn.bahamut.game.rollingcoaster"
+            },
+            "VideoLoop": false,
+            "CoverUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
+            "Priority": 20,
+            "VideoType": 1,
+            "Labels": 0,
+            "Stars": 5
+        },
+        {
+            "ItemId": "BinBalls",
+            "AppLink": {
+                "Url": "https://www.taptap.com/app/77780",
+                "AndroidPackageId": "cn.bahamut.game.binballs",
+                "IOSUrlScheme": "btgame1337445800://",
+                "IOSAppId": "1337445800",
+                "IOSPackageId": "cn.bahamut.game.binballs"
+            },
+            "VideoLoop": false,
+            "CoverUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/BinBalls.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
+            "Priority": 65,
+            "VideoType": 1,
+            "Labels": 0,
+            "Stars": 5
+        },
+        {
+            "ItemId": "SkyJump",
+            "AppLink": {
+                "Url": "market://details?id=cn.bahamut.game.skyjump",
+                "AndroidPackageId": "cn.bahamut.game.skyjump",
+                "IOSUrlScheme": "btgame1358100456://",
+                "IOSAppId": "1358100456",
+                "IOSPackageId": "cn.bahamut.game.skyjump"
+            },
+            "VideoLoop": false,
+            "CoverUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump.mp4",
+            "Priority": 40,
+            "VideoType": 1,
+            "Labels": 0,
+            "Stars": 5
+        }
+    ]
+}
