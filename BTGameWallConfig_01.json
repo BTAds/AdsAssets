@@ -11,6 +11,8 @@
                 "IOSPackageId": "cn.bahamut.game.hophophop"
             },
             "VideoLoop": false,
+            "GameName": "Rolly Jump",
+            "IconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_RollyJump.jpg",
             "CoverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump.mp4",
             "Priority": 60,
@@ -28,6 +30,8 @@
                 "IOSPackageId": "cn.bahamut.game.rollingballz"
             },
             "VideoLoop": false,
+            "GameName": "Rolling Ballz",
+            "IconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_RollingBallz.jpg",
             "CoverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
             "Priority": 60,
@@ -45,6 +49,8 @@
                 "IOSPackageId": "cn.bahamut.game.colorballsroad"
             },
             "VideoLoop": false,
+            "GameName": "Twisty Rush",
+            "IconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_TwistyRush.jpg",
             "CoverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
             "Priority": 50,
@@ -62,6 +68,8 @@
                 "IOSPackageId": "cn.bahamut.game.rollingcoaster"
             },
             "VideoLoop": false,
+            "GameName": "Twisty Ruller",
+            "IconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_TwistyRoller.jpg",
             "CoverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
             "Priority": 20,
@@ -79,6 +87,8 @@
                 "IOSPackageId": "cn.bahamut.game.binballs"
             },
             "VideoLoop": false,
+            "GameName": "Bin Balls",
+            "IconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_BinBalls.jpg",
             "CoverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/BinBalls.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
             "Priority": 65,
@@ -96,6 +106,8 @@
                 "IOSPackageId": "cn.bahamut.game.skyjump"
             },
             "VideoLoop": false,
+            "GameName": "Sky Jump",
+            "IconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_SkyJump.jpg",
             "CoverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump.mp4",
             "Priority": 40,
