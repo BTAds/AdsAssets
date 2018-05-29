@@ -18,7 +18,10 @@
             "Priority": 60,
             "VideoType": 1,
             "Labels": 0,
-            "Stars": 5
+            "Stars": 5,
+            "Loc": {
+                "GameName_zh_Hans": "旋转跳跃"
+            }
         },
         {
             "ItemId": "RollingBallz",
@@ -37,7 +40,10 @@
             "Priority": 60,
             "VideoType": 1,
             "Labels": 0,
-            "Stars": 5
+            "Stars": 5,
+            "Loc": {
+                "GameName_zh_Hans": "滚动天空球"
+            }
         },
         {
             "ItemId": "TwistyRush",
@@ -56,7 +62,10 @@
             "Priority": 50,
             "VideoType": 1,
             "Labels": 0,
-            "Stars": 5
+            "Stars": 5,
+            "Loc": {
+                "GameName_zh_Hans": "变色球大冒险"
+            }
         },
         {
             "ItemId": "TwistyRoller",
@@ -75,7 +84,10 @@
             "Priority": 20,
             "VideoType": 1,
             "Labels": 0,
-            "Stars": 5
+            "Stars": 5,
+            "Loc": {
+                "GameName_zh_Hans": "蜿蜒绝地"
+            }
         },
         {
             "ItemId": "BinBalls",
@@ -94,7 +106,10 @@
             "Priority": 65,
             "VideoType": 1,
             "Labels": 0,
-            "Stars": 5
+            "Stars": 5,
+            "Loc": {
+                "GameName_zh_Hans": "双子球-极速变换"
+            }
         },
         {
             "ItemId": "SkyJump",
@@ -113,7 +128,10 @@
             "Priority": 40,
             "VideoType": 1,
             "Labels": 0,
-            "Stars": 5
+            "Stars": 5,
+            "Loc": {
+                "GameName_zh_Hans": "天空跳跳跳"
+            }
         }
     ]
 }
