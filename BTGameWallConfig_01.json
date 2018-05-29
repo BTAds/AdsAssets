@@ -20,6 +20,7 @@
             "Labels": 0,
             "Stars": 5,
             "Loc": {
+                "GameName_zh": "旋转跳跃",
                 "GameName_zh_Hans": "旋转跳跃"
             }
         },
@@ -42,6 +43,7 @@
             "Labels": 0,
             "Stars": 5,
             "Loc": {
+                "GameName_zh": "滚动天空球",
                 "GameName_zh_Hans": "滚动天空球"
             }
         },
@@ -64,6 +66,7 @@
             "Labels": 0,
             "Stars": 5,
             "Loc": {
+                "GameName_zh": "变色球大冒险",
                 "GameName_zh_Hans": "变色球大冒险"
             }
         },
@@ -86,6 +89,7 @@
             "Labels": 0,
             "Stars": 5,
             "Loc": {
+                "GameName_zh": "蜿蜒绝地",
                 "GameName_zh_Hans": "蜿蜒绝地"
             }
         },
@@ -108,6 +112,7 @@
             "Labels": 0,
             "Stars": 5,
             "Loc": {
+                "GameName_zh": "双子球-极速变换",
                 "GameName_zh_Hans": "双子球-极速变换"
             }
         },
@@ -130,6 +135,7 @@
             "Labels": 0,
             "Stars": 5,
             "Loc": {
+                "GameName_zh": "天空跳跳跳",
                 "GameName_zh_Hans": "天空跳跳跳"
             }
         }
