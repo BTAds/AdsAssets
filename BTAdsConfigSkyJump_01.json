@@ -33,7 +33,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
-            "Priority": 50,
+            "Priority": 70,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
