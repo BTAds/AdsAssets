@@ -1,0 +1,137 @@
+{
+    "ConfigVersion": 1,
+    "VideoAdContents": [
+        {
+            "ContentId": "RollyJump",
+            "Link": {
+                "Url": "https://www.taptap.com/app/135465",
+                "AndroidPackageId": "cn.bahamut.game.hophophop",
+                "IOSUrlScheme": "btgame1372395478://",
+                "IOSAppId": "1372395478",
+                "IOSPackageId": "cn.bahamut.game.hophophop"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump.mp4",
+            "Priority": 60,
+            "Limit": "2/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "TwistyRush",
+            "Link": {
+                "Url": "https://www.taptap.com/app/135466",
+                "AndroidPackageId": "cn.bahamut.game.colorballsroad",
+                "IOSUrlScheme": "btgame1370929810://",
+                "IOSAppId": "1370929810",
+                "IOSPackageId": "cn.bahamut.game.colorballsroad"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
+            "Priority": 50,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "RollingBallz",
+            "Link": {
+                "Url": "https://www.taptap.com/app/70412",
+                "AndroidPackageId": "cn.bahamut.game.rollingballz",
+                "IOSUrlScheme": "btgame1317518650://",
+                "IOSAppId": "1317518650",
+                "IOSPackageId": "cn.bahamut.game.rollingballz"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
+            "Priority": 40,
+            "Limit": "2/2d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "BinBalls",
+            "Link": {
+                "Url": "https://www.taptap.com/app/77780",
+                "AndroidPackageId": "cn.bahamut.game.binballs",
+                "IOSUrlScheme": "btgame1337445800://",
+                "IOSAppId": "1337445800",
+                "IOSPackageId": "cn.bahamut.game.binballs"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/BinBalls.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
+            "Priority": 10,
+            "Limit": "2/2d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "SkyJump",
+            "Link": {
+                "Url": "market://details?id=cn.bahamut.game.skyjump",
+                "AndroidPackageId": "cn.bahamut.game.skyjump",
+                "IOSUrlScheme": "btgame1358100456://",
+                "IOSAppId": "1358100456",
+                "IOSPackageId": "cn.bahamut.game.skyjump"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump.mp4",
+            "Priority": 30,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "TwistyRoller",
+            "Link": {
+                "Url": "https://www.taptap.com/app/79054",
+                "AndroidPackageId": "cn.bahamut.game.rollingcoaster",
+                "IOSUrlScheme": "btgame1341336378://",
+                "IOSAppId": "1341336378",
+                "IOSPackageId": "cn.bahamut.game.rollingcoaster"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
+            "Priority": 20,
+            "Limit": "2/2d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        }
+    ],
+    "Placements": [
+        {
+            "PlacementId": "Opening",
+            "IntervalLimit": "",
+            "Limit": "10/7d"
+        },
+        {
+            "PlacementId": "Default",
+            "IntervalLimit": "",
+            "Limit": "10/7d"
+        }
+    ]
+}
