@@ -104,7 +104,7 @@
     ],
     "Placements": [
         {
-            "PlacementId": "OpeningReviewing",
+            "PlacementId": "Opening",
             "IntervalLimit": "",
             "Limit": "10/7d"
         },
