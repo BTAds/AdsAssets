@@ -129,7 +129,7 @@
             "Limit": "10/7d"
         },
         {
-            "PlacementId": "Default",
+            "PlacementId": "DefaultReviewing",
             "IntervalLimit": "",
             "Limit": "10/7d"
         }
