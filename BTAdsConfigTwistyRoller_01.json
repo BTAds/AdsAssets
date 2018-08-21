@@ -11,8 +11,8 @@
                 "IOSPackageId": "cn.bahamut.game.hophophop"
             },
             "VideoLoop": false,
-            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump.mp4",
+            "ImageUrl": "http://imgassets.qncdn.btbase.mobi/RollyJump.jpg",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/RollyJump_P.mp4",
             "Priority": 60,
             "Limit": "2/1d",
             "LinkButton": {
@@ -31,8 +31,8 @@
                 "IOSPackageId": "cn.bahamut.game.colorballsroad"
             },
             "VideoLoop": false,
-            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
+            "ImageUrl": "http://imgassets.qncdn.btbase.mobi/TwistyRush.jpg",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/TwistyRush.mp4",
             "Priority": 70,
             "Limit": "3/1d",
             "LinkButton": {
@@ -51,8 +51,8 @@
                 "IOSPackageId": "cn.bahamut.game.rollingballz"
             },
             "VideoLoop": false,
-            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
+            "ImageUrl": "http://imgassets.qncdn.btbase.mobi/RollingBallz.jpg",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/RollingBallz_P.mp4",
             "Priority": 50,
             "Limit": "2/2d",
             "LinkButton": {
@@ -71,8 +71,8 @@
                 "IOSPackageId": "cn.bahamut.game.binballs"
             },
             "VideoLoop": false,
-            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/BinBalls.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
+            "ImageUrl": "http://imgassets.qncdn.btbase.mobi/BinBalls.jpg",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/BinBalls.mp4",
             "Priority": 20,
             "Limit": "2/2d",
             "LinkButton": {
@@ -91,8 +91,8 @@
                 "IOSPackageId": "cn.bahamut.game.skyjump"
             },
             "VideoLoop": false,
-            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump.mp4",
+            "ImageUrl": "http://imgassets.qncdn.btbase.mobi/SkyJump.jpg",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/SkyJump_P.mp4",
             "Priority": 40,
             "Limit": "3/1d",
             "LinkButton": {
