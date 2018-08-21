@@ -12,7 +12,7 @@
             },
             "VideoLoop": false,
             "ImageUrl": "http://imgassets.qncdn.btbase.mobi/RollingBallz.jpg",
-            "VideoUrl": "https://raw.githubusercontent/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4",
             "Priority": 60,
             "Limit": "3/1d",
             "LinkButton": {
@@ -32,7 +32,7 @@
             },
             "VideoLoop": false,
             "ImageUrl": "http://imgassets.qncdn.btbase.mobi/TwistyRush.jpg",
-            "VideoUrl": "https://raw.githubusercontent/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
             "Priority": 70,
             "Limit": "3/1d",
             "LinkButton": {
@@ -52,7 +52,7 @@
             },
             "VideoLoop": false,
             "ImageUrl": "http://imgassets.qncdn.btbase.mobi/TwistyRoller.jpg",
-            "VideoUrl": "https://raw.githubusercontent/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
             "Priority": 20,
             "Limit": "2/2d",
             "LinkButton": {
@@ -72,7 +72,7 @@
             },
             "VideoLoop": false,
             "ImageUrl": "http://imgassets.qncdn.btbase.mobi/BinBalls.jpg",
-            "VideoUrl": "https://raw.githubusercontent/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
             "Priority": 65,
             "Limit": "3/1d",
             "LinkButton": {
@@ -92,7 +92,7 @@
             },
             "VideoLoop": false,
             "ImageUrl": "http://imgassets.qncdn.btbase.mobi/SkyJump.jpg",
-            "VideoUrl": "https://raw.githubusercontent/BTAds/AdsAssets/master/BTAdsVideo/SkyJump_P.mp4",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump_P.mp4",
             "Priority": 40,
             "Limit": "3/1d",
             "LinkButton": {
