@@ -2,6 +2,26 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
+            "ContentId": "RollySnake",
+            "Link": {
+                "Url": "https://www.taptap.com/app/142049",
+                "AndroidPackageId": "mobi.gstudio.game.snakevsrollyblock",
+                "IOSUrlScheme": "btgame1415707597://",
+                "IOSAppId": "1415707597",
+                "IOSPackageId": "mobi.gstudio.game.snakevsrollyblock"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollySnake.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollySnake_P.mp4",
+            "Priority": 72,
+            "Limit": "2/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "RollyJump",
             "Link": {
                 "Url": "https://www.taptap.com/app/135465",
