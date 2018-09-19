@@ -33,7 +33,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4",
-            "Priority": 60,
+            "Priority": 80,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
