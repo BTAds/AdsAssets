@@ -2,6 +2,26 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
+            "ContentId": "MotoFly",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
+                "AndroidPackageId": "mobi.gstudio.game.motofly",
+                "IOSUrlScheme": "btgame1436266966://",
+                "IOSAppId": "1436266966",
+                "IOSPackageId": "mobi.gstudio.game.motofly"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/MotoFly.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/MotoFly_P.mp4",
+            "Priority": 81,
+            "Limit": "2/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "RollyJump",
             "Link": {
                 "Url": "https://www.taptap.com/app/135465",
