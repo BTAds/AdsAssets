@@ -2,6 +2,26 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
+            "ContentId": "WildChaser",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
+                "AndroidPackageId": "mobi.gstudio.game.slimeanimal",
+                "IOSUrlScheme": "btgame1415708282://",
+                "IOSAppId": "1415708282",
+                "IOSPackageId": "mobi.gstudio.game.slimeanimal"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/WildChaser.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/WildChaser_P.mp4",
+            "Priority": 91,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "MotoFly",
             "Link": {
                 "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
