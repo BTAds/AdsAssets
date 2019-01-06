@@ -33,7 +33,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/MotoFly.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/MotoFly_P.mp4",
-            "Priority": 81,
+            "Priority": 80,
             "Limit": "2/1d",
             "LinkButton": {
                 "ButtonColor": "",
