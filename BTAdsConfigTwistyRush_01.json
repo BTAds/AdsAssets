@@ -2,6 +2,26 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
+            "ContentId": "InfectedCity",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1415707157?mt=8",
+                "AndroidPackageId": "mobi.gstudio.game.ZombieCity",
+                "IOSUrlScheme": "btgame1415707157://",
+                "IOSAppId": "1415707157",
+                "IOSPackageId": "mobi.gstudio.game.ZombieCity"
+            },
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/InfectedCity.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/InfectedCity_P.mp4",
+            "Priority": 101,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "WildChaser",
             "Link": {
                 "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
