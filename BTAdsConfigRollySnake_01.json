@@ -73,7 +73,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://imgassets.qncdn.btbase.mobi/RollyJump.jpg",
             "VideoUrl": "http://videoassets.qncdn.btbase.mobi/RollyJump_P.mp4",
-            "Priority": 60,
+            "Priority": 100,
             "Limit": "2/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -93,7 +93,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://imgassets.qncdn.btbase.mobi/TwistyRush.jpg",
             "VideoUrl": "http://videoassets.qncdn.btbase.mobi/TwistyRush.mp4",
-            "Priority": 70,
+            "Priority": 102,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -113,7 +113,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://imgassets.qncdn.btbase.mobi/RollingBallz.jpg",
             "VideoUrl": "http://videoassets.qncdn.btbase.mobi/RollingBallz_P.mp4",
-            "Priority": 80,
+            "Priority": 99,
             "Limit": "2/2d",
             "LinkButton": {
                 "ButtonColor": "",
