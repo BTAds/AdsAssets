@@ -186,7 +186,7 @@
         {
             "PlacementId": "Window",
             "IntervalLimit": "",
-            "Limit": "999/d"
+            "Limit": "999/1d"
         },
         {
             "PlacementId": "Opening",
