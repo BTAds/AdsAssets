@@ -10,6 +10,8 @@
                 "IOSAppId": "1317518650",
                 "IOSPackageId": "cn.bahamut.game.rollingballz"
             },
+            "Title": "",
+            "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4",
