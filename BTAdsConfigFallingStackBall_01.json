@@ -24,6 +24,28 @@
             }
         },
         {
+            "ContentId": "RollyJump",
+            "Link": {
+                "Url": "https://www.taptap.com/app/135465",
+                "AndroidPackageId": "cn.bahamut.game.hophophop",
+                "IOSUrlScheme": "btgame1372395478://",
+                "IOSAppId": "1372395478",
+                "IOSPackageId": "cn.bahamut.game.hophophop"
+            },
+            "Title": "Rolly Jump",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
+            "Priority": 97,
+            "Limit": "2/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "WildChaser",
             "Link": {
                 "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
@@ -147,7 +169,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
-            "Priority": 97,
+            "Priority": 96,
             "Limit": "2/2d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -169,7 +191,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/BinBalls.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
-            "Priority": 96,
+            "Priority": 95,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -191,7 +213,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump_P.mp4",
-            "Priority": 95,
+            "Priority": 94,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
