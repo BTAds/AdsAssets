@@ -232,6 +232,11 @@
             "PlacementId": "Default",
             "IntervalLimit": "",
             "Limit": "3/1d"
+        },
+        {
+            "PlacementId": "Window",
+            "IntervalLimit": "",
+            "Limit": ""
         }
     ]
 }

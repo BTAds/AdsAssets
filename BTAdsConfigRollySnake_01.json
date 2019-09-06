@@ -202,11 +202,6 @@
     ],
     "Placements": [
         {
-            "PlacementId": "Window",
-            "IntervalLimit": "",
-            "Limit": "999/1d"
-        },
-        {
             "PlacementId": "Opening",
             "IntervalLimit": "",
             "Limit": "10/7d"
@@ -215,6 +210,11 @@
             "PlacementId": "Default",
             "IntervalLimit": "",
             "Limit": "3/1d"
+        },
+        {
+            "PlacementId": "Window",
+            "IntervalLimit": "",
+            "Limit": ""
         }
     ]
 }
