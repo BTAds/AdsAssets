@@ -226,7 +226,7 @@
         {
             "PlacementId": "Opening",
             "IntervalLimit": "",
-            "Limit": "10/7d"
+            "Limit": "0/7d"
         },
         {
             "PlacementId": "Default",
