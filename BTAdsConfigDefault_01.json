@@ -1,0 +1,242 @@
+{
+    "ConfigVersion": 1,
+    "VideoAdContents": [
+        {
+            "ContentId": "InfectedCity",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1415707157?mt=8",
+                "AndroidPackageId": "mobi.gstudio.game.ZombieCity",
+                "IOSUrlScheme": "btgame1415707157://",
+                "IOSAppId": "1415707157",
+                "IOSPackageId": "mobi.gstudio.game.ZombieCity"
+            },
+            "Title": "ZomieCity.io",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/InfectedCity.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/InfectedCity_P.mp4",
+            "Priority": 101,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "RollyJump",
+            "Link": {
+                "Url": "https://www.taptap.com/app/135465",
+                "AndroidPackageId": "cn.bahamut.game.hophophop",
+                "IOSUrlScheme": "btgame1372395478://",
+                "IOSAppId": "1372395478",
+                "IOSPackageId": "cn.bahamut.game.hophophop"
+            },
+            "Title": "Rolly Jump",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
+            "Priority": 97,
+            "Limit": "2/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "WildChaser",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
+                "AndroidPackageId": "mobi.gstudio.game.slimeanimal",
+                "IOSUrlScheme": "btgame1415708282://",
+                "IOSAppId": "1415708282",
+                "IOSPackageId": "mobi.gstudio.game.slimeanimal"
+            },
+            "Title": "CutePet.io",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/WildChaser.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/WildChaser_P.mp4",
+            "Priority": 91,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "MotoFly",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
+                "AndroidPackageId": "mobi.gstudio.game.motofly",
+                "IOSUrlScheme": "btgame1436266966://",
+                "IOSAppId": "1436266966",
+                "IOSPackageId": "mobi.gstudio.game.motofly"
+            },
+            "Title": "Moto Dune",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/MotoFly.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/MotoFly_P.mp4",
+            "Priority": 80,
+            "Limit": "2/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "RollySnake",
+            "Link": {
+                "Url": "https://www.taptap.com/app/142049",
+                "AndroidPackageId": "mobi.gstudio.game.snakevsrollyblock",
+                "IOSUrlScheme": "btgame1415707597://",
+                "IOSAppId": "1415707597",
+                "IOSPackageId": "mobi.gstudio.game.snakevsrollyblock"
+            },
+            "Title": "Rolly Snake",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollySnake.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollySnake_P.mp4",
+            "Priority": 100,
+            "Limit": "2/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "RollingBallz",
+            "Link": {
+                "Url": "https://www.taptap.com/app/70412",
+                "AndroidPackageId": "cn.bahamut.game.rollingballz",
+                "IOSUrlScheme": "btgame1317518650://",
+                "IOSAppId": "1317518650",
+                "IOSPackageId": "cn.bahamut.game.rollingballz"
+            },
+            "Title": "Rolling Ballz",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4",
+            "Priority": 98,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "TwistyRush",
+            "Link": {
+                "Url": "https://www.taptap.com/app/135466",
+                "AndroidPackageId": "cn.bahamut.game.colorballsroad",
+                "IOSUrlScheme": "btgame1370929810://",
+                "IOSAppId": "1370929810",
+                "IOSPackageId": "cn.bahamut.game.colorballsroad"
+            },
+            "Title": "Twisty Rush",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
+            "Priority": 99,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "TwistyRoller",
+            "Link": {
+                "Url": "https://www.taptap.com/app/79054",
+                "AndroidPackageId": "cn.bahamut.game.rollingcoaster",
+                "IOSUrlScheme": "btgame1341336378://",
+                "IOSAppId": "1341336378",
+                "IOSPackageId": "cn.bahamut.game.rollingcoaster"
+            },
+            "Title": "Twisty Roller",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
+            "Priority": 96,
+            "Limit": "2/2d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "BinBalls",
+            "Link": {
+                "Url": "https://www.taptap.com/app/77780",
+                "AndroidPackageId": "cn.bahamut.game.binballs",
+                "IOSUrlScheme": "btgame1337445800://",
+                "IOSAppId": "1337445800",
+                "IOSPackageId": "cn.bahamut.game.binballs"
+            },
+            "Title": "Bin Balls",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/BinBalls.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
+            "Priority": 95,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "SkyJump",
+            "Link": {
+                "Url": "market://details?id=cn.bahamut.game.skyjump",
+                "AndroidPackageId": "cn.bahamut.game.skyjump",
+                "IOSUrlScheme": "btgame1358100456://",
+                "IOSAppId": "1358100456",
+                "IOSPackageId": "cn.bahamut.game.skyjump"
+            },
+            "Title": "Sky Jump",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump_P.mp4",
+            "Priority": 94,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        }
+    ],
+    "Placements": [
+        {
+            "PlacementId": "Opening",
+            "IntervalLimit": "",
+            "Limit": "0/7d"
+        },
+        {
+            "PlacementId": "Default",
+            "IntervalLimit": "",
+            "Limit": "10/7d"
+        },
+        {
+            "PlacementId": "Window",
+            "IntervalLimit": "",
+            "Limit": ""
+        }
+    ]
+}
