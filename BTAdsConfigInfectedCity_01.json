@@ -2,6 +2,28 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
+            "ContentId": "StackFall",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1454091348?mt=8",
+                "AndroidPackageId": "mobi.gstudio.game.fallingstackball",
+                "IOSUrlScheme": "btgame1454091348://",
+                "IOSAppId": "1454091348",
+                "IOSPackageId": "mobi.gstudio.game.fallingstackball"
+            },
+            "Title": "Stack Breaker",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/StackFall_P.mp4",
+            "Priority": 101,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "WildChaser",
             "Link": {
                 "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
