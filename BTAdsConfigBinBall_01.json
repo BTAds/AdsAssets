@@ -14,7 +14,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/StackFall_P.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/StackFall_P.mp4",
             "Priority": 101,
             "Limit": "3/1d",
             "LinkButton": {
@@ -36,7 +36,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/InfectedCity.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/InfectedCity_P.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/InfectedCity_P.mp4",
             "Priority": 101,
             "Limit": "3/1d",
             "LinkButton": {
@@ -58,7 +58,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/WildChaser.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/WildChaser_P.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/WildChaser_P.mp4",
             "Priority": 91,
             "Limit": "3/1d",
             "LinkButton": {
@@ -80,7 +80,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/MotoFly.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/MotoFly_P.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/MotoFly_P.mp4",
             "Priority": 80,
             "Limit": "2/1d",
             "LinkButton": {
@@ -102,7 +102,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollySnake.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollySnake_P.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/RollySnake_P.mp4",
             "Priority": 100,
             "Limit": "2/1d",
             "LinkButton": {
@@ -124,7 +124,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/RollyJump_P.mp4",
             "Priority": 99,
             "Limit": "2/1d",
             "LinkButton": {
@@ -146,7 +146,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/RollingBallz_P.mp4",
             "Priority": 97,
             "Limit": "2/2d",
             "LinkButton": {
@@ -168,7 +168,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/TwistyRush.mp4",
             "Priority": 98,
             "Limit": "3/1d",
             "LinkButton": {
@@ -190,7 +190,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/TwistyRoller.mp4",
             "Priority": 96,
             "Limit": "2/2d",
             "LinkButton": {
@@ -212,7 +212,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump_P.mp4",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/SkyJump_P.mp4",
             "Priority": 95,
             "Limit": "3/1d",
             "LinkButton": {
