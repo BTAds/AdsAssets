@@ -80,7 +80,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/MotoFly.jpg",
-            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/MotoFly_P.mp4",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/MotoFly_P.mp4",
             "Priority": 80,
             "Limit": "2/1d",
             "LinkButton": {
@@ -124,7 +124,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
-            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/RollyJump_P.mp4",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
             "Priority": 60,
             "Limit": "2/1d",
             "LinkButton": {
