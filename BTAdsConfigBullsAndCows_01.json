@@ -2,6 +2,28 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
+            "ContentId": "StackHop",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1478843382?mt=8",
+                "AndroidPackageId": "com.z2game.stackhop",
+                "IOSUrlScheme": "btgame1478843382://",
+                "IOSAppId": "1478843382",
+                "IOSPackageId": "com.z2game.stackhop"
+            },
+            "Title": "Stacky Hop",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
+            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/StackHop.mp4",
+            "Priority": 102,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "StackFall",
             "Link": {
                 "Url": "https://itunes.apple.com/cn/app/id1454091348?mt=8",
