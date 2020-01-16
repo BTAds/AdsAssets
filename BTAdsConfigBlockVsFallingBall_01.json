@@ -14,7 +14,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
-            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/Voodoo_0.mp4",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/Catchup.mp4",
             "Priority": 103,
             "Limit": "3/1d",
             "LinkButton": {
