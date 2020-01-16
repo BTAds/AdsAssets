@@ -2,6 +2,28 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
+            "ContentId": "CatchupIO",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1487744908?mt=8",
+                "AndroidPackageId": "com.z2game.hurdlesio",
+                "IOSUrlScheme": "btgame1487744908://",
+                "IOSAppId": "1487744908",
+                "IOSPackageId": "com.z2game.hurdlesio"
+            },
+            "Title": "Catchup.io",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
+            "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/Voodoo_0.mp4",
+            "Priority": 103,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "StackHop",
             "Link": {
                 "Url": "https://itunes.apple.com/cn/app/id1478843382?mt=8",
