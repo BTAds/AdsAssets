@@ -169,7 +169,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollySnake.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollySnake_P.mp4",
-            "Priority": 100,
+            "Priority": 103,
             "Limit": "2/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -213,7 +213,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
-            "Priority": 99,
+            "Priority": 104,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
