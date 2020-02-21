@@ -15,7 +15,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/Catchup_0.mp4",
-            "Priority": 0,
+            "Priority": 103,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
