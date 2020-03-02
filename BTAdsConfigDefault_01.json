@@ -59,7 +59,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/StackHop.mp4",
-            "Priority": 102,
+            "Priority": 98,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -125,7 +125,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
-            "Priority": 97,
+            "Priority": 99,
             "Limit": "2/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -213,7 +213,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4",
-            "Priority": 98,
+            "Priority": 100,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -257,7 +257,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
             "VideoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
-            "Priority": 60,
+            "Priority": 99,
             "Limit": "2/2d",
             "LinkButton": {
                 "ButtonColor": "",
