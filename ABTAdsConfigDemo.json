@@ -14,7 +14,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
-            "VideoUrl": "http://videoassets.qncdn.btbase.mobi/RollingBallz_P.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4",
             "Priority": 10,
             "Limit": "5/1d",
             "LinkButton": {
