@@ -80,7 +80,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/StackFall_P.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/StackFall_P.mp4",
             "Priority": 101,
             "Limit": "3/1d",
             "LinkButton": {
@@ -102,7 +102,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/InfectedCity.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/InfectedCity_P.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/InfectedCity_P.mp4",
             "Priority": 101,
             "Limit": "3/1d",
             "LinkButton": {
@@ -190,7 +190,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollySnake.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/RollySnake_P.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollySnake_P.mp4",
             "Priority": 103,
             "Limit": "2/1d",
             "LinkButton": {
@@ -256,7 +256,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/TwistyRoller.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
             "Priority": 99,
             "Limit": "2/2d",
             "LinkButton": {
