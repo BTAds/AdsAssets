@@ -14,7 +14,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/Stacks_2.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/Stacks_2.mp4",
             "Priority": 104,
             "Limit": "3/1d",
             "LinkButton": {
@@ -36,7 +36,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/Catchup_0.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/Catchup_0.mp4",
             "Priority": 103,
             "Limit": "3/1d",
             "LinkButton": {
@@ -190,8 +190,8 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollySnake.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollySnake_P.mp4",
-            "Priority": 103,
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/RollySnake_P.mp4",
+            "Priority": 105,
             "Limit": "2/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -235,7 +235,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
             "VideoUrl": "http://qiniuvideocdn.btbase.site/TwistyRush.mp4",
-            "Priority": 104,
+            "Priority": 105,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
