@@ -190,7 +190,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollySnake.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/RollySnake_P.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollySnake_P.mp4",
             "Priority": 105,
             "Limit": "2/1d",
             "LinkButton": {
@@ -234,7 +234,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/TwistyRush.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
             "Priority": 105,
             "Limit": "3/1d",
             "LinkButton": {

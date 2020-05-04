@@ -22,6 +22,27 @@
                 "TextTerm": "BTAdsLinkButtonInstallNow,BTAdsLinkButtonPlayNow",
                 "TextColor": "#ff0000ff"
             }
+        },{
+            "ContentId": "RollingBallz2",
+            "Link": {
+                "Url": "https://www.taptap.com/app/70412",
+                "AndroidPackageId": "cn.bahamut.game.rollingballz",
+                "IOSUrlScheme": "btgame1317518650",
+                "IOSAppId": "1317518650",
+                "IOSPackageId": "cn.bahamut.game.rollingballz"
+            },
+            "Title": "",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/RollingBallz_P.mp4",
+            "Priority": 10,
+            "Limit": "5/1d",
+            "LinkButton": {
+                "ButtonColor": "#0000ffff",
+                "TextTerm": "BTAdsLinkButtonInstallNow,BTAdsLinkButtonPlayNow",
+                "TextColor": "#ff0000ff"
+            }
         }
     ],
     "Placements": [
