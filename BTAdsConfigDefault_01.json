@@ -80,7 +80,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/StackFall_P.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/StackFall_P.mp4",
             "Priority": 101,
             "Limit": "3/1d",
             "LinkButton": {
@@ -124,7 +124,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/RollyJump_P.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
             "Priority": 102,
             "Limit": "2/1d",
             "LinkButton": {
@@ -256,7 +256,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
-            "VideoUrl": "http://qiniuvideocdn.btbase.site/TwistyRoller.mp4",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
             "Priority": 102,
             "Limit": "2/2d",
             "LinkButton": {
