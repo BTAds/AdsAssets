@@ -1,6 +1,71 @@
 {
     "ConfigVersion": 1,
-    "VideoAdContents": [
+    "VideoAdContents": [{
+        "ContentId": "Stacks",
+        "Link": {
+            "Url": "https://itunes.apple.com/cn/app/id1493182835?mt=8",
+            "AndroidPackageId": "com.z2game.stackfill",
+            "IOSUrlScheme": "btgame1493182835://",
+            "IOSAppId": "1493182835",
+            "IOSPackageId": "com.z2game.stackfill"
+        },
+        "Title": "Stacks",
+        "Desc": "",
+        "VideoLoop": false,
+        "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
+        "VideoUrl": "http://qiniuvideocdn.btbase.site/Stacks_2.mp4",
+        "Priority": 104,
+        "Limit": "0/1d",
+        "LinkButton": {
+            "ButtonColor": "",
+            "TextTerm": "",
+            "TextColor": ""
+        }
+    },
+    {
+        "ContentId": "CatchupIO",
+        "Link": {
+            "Url": "https://itunes.apple.com/cn/app/id1487744908?mt=8",
+            "AndroidPackageId": "com.z2game.hurdlesio",
+            "IOSUrlScheme": "btgame1487744908://",
+            "IOSAppId": "1487744908",
+            "IOSPackageId": "com.z2game.hurdlesio"
+        },
+        "Title": "Catchup.io",
+        "Desc": "",
+        "VideoLoop": false,
+        "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
+        "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/Catchup_0.mp4",
+        "Priority": 103,
+        "Limit": "3/1d",
+        "LinkButton": {
+            "ButtonColor": "",
+            "TextTerm": "",
+            "TextColor": ""
+        }
+    },
+    {
+        "ContentId": "StackHop",
+        "Link": {
+            "Url": "https://itunes.apple.com/cn/app/id1478843382?mt=8",
+            "AndroidPackageId": "com.z2game.stackhop",
+            "IOSUrlScheme": "btgame1478843382://",
+            "IOSAppId": "1478843382",
+            "IOSPackageId": "com.z2game.stackhop"
+        },
+        "Title": "Stacky Hop",
+        "Desc": "",
+        "VideoLoop": false,
+        "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
+        "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/StackHop.mp4",
+        "Priority": 98,
+        "Limit": "3/1d",
+        "LinkButton": {
+            "ButtonColor": "",
+            "TextTerm": "",
+            "TextColor": ""
+        }
+    },
         {
             "ContentId": "RollingBallz",
             "Link": {
