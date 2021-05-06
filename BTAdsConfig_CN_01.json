@@ -156,28 +156,6 @@
             }
         },
         {
-            "ContentId": "MotoFly",
-            "Link": {
-                "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
-                "AndroidPackageId": "mobi.gstudio.game.motofly",
-                "IOSUrlScheme": "btgame1436266966://",
-                "IOSAppId": "1436266966",
-                "IOSPackageId": "mobi.gstudio.game.motofly"
-            },
-            "Title": " ",
-            "Desc": "",
-            "VideoLoop": false,
-            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/MotoFly_P.mp4",
-            "Priority": 80,
-            "Limit": "2/1d",
-            "LinkButton": {
-                "ButtonColor": "",
-                "TextTerm": "",
-                "TextColor": ""
-            }
-        },
-        {
             "ContentId": "RollySnake",
             "Link": {
                 "Url": "https://www.taptap.com/app/142049",
@@ -259,28 +237,6 @@
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
             "Priority": 102,
             "Limit": "2/2d",
-            "LinkButton": {
-                "ButtonColor": "",
-                "TextTerm": "",
-                "TextColor": ""
-            }
-        },
-        {
-            "ContentId": "BinBalls",
-            "Link": {
-                "Url": "https://www.taptap.com/app/77780",
-                "AndroidPackageId": "cn.bahamut.game.binballs",
-                "IOSUrlScheme": "btgame1337445800://",
-                "IOSAppId": "1337445800",
-                "IOSPackageId": "cn.bahamut.game.binballs"
-            },
-            "Title": "Bin Balls",
-            "Desc": "",
-            "VideoLoop": false,
-            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
-            "Priority": 95,
-            "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
                 "TextTerm": "",
