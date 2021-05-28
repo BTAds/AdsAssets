@@ -68,6 +68,28 @@
             }
         },
         {
+            "ContentId": "StackTowerRace",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1507131646",
+                "AndroidPackageId": "com.z2game.pileup",
+                "IOSUrlScheme": "btgame1507131646://",
+                "IOSAppId": "1507131646",
+                "IOSPackageId": "com.z2game.pileup"
+            },
+            "Title": "Unite&Clash",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/StackTowerRace.mp4",
+            "Priority": 104,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "SnakeVortex",
             "Link": {
                 "Url": "https://apps.apple.com/us/app/id1537976903",
