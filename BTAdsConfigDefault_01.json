@@ -14,8 +14,8 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/uniteNclash.mp4",
-            "Priority": 102,
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/uniteNclash.mp4",
+            "Priority": 103,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -38,6 +38,50 @@
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/HookRun.mp4",
             "Priority": 102,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "HumanStackBattle",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1514309760",
+                "AndroidPackageId": "com.z2game.seesawbattle",
+                "IOSUrlScheme": "btgame1514309760://",
+                "IOSAppId": "1514309760",
+                "IOSPackageId": "com.z2game.seesawbattle"
+            },
+            "Title": "Unite&Clash",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/HumanStackBattle.mp4",
+            "Priority": 104,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "StackTowerRace",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1507131646",
+                "AndroidPackageId": "com.z2game.pileup",
+                "IOSUrlScheme": "btgame1507131646://",
+                "IOSAppId": "1507131646",
+                "IOSPackageId": "com.z2game.pileup"
+            },
+            "Title": "Unite&Clash",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/StackTowerRace.mp4",
+            "Priority": 104,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -300,7 +344,7 @@
             "Desc": "",
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/TwistyRoller.mp4",
             "Priority": 102,
             "Limit": "2/2d",
             "LinkButton": {
