@@ -147,7 +147,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/HelixStair.mp4",
-            "Priority": 103,
+            "Priority": 102,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
