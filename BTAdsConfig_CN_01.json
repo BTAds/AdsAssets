@@ -2,6 +2,50 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
+            "ContentId": "RailsRoller",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1564282166",
+                "AndroidPackageId": "com.z2game.railsballrun",
+                "IOSUrlScheme": "btgame1564282166://",
+                "IOSAppId": "1564282166",
+                "IOSPackageId": "com.z2game.railsballrun"
+            },
+            "Title": "Rails Roller",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/RailsRoller.mp4",
+            "Priority": 104,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "StackCube24",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1561822392",
+                "AndroidPackageId": "com.z2game.stack24",
+                "IOSUrlScheme": "btgame1561822392://",
+                "IOSAppId": "1561822392",
+                "IOSPackageId": "com.z2game.stack24"
+            },
+            "Title": "StackCube24",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/StackCube24.mp4",
+            "Priority": 102,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
             "ContentId": "UniteNClash",
             "Link": {
                 "Url": "https://apps.apple.com/us/app/id1556056952",
@@ -37,7 +81,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/HookRun.mp4",
-            "Priority": 102,
+            "Priority": 100,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -59,7 +103,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "http://qiniuvideocdn.btbase.site/HumanStackBattle.mp4",
-            "Priority": 104,
+            "Priority": 101,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -81,7 +125,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "http://qiniuvideocdn.btbase.site/StackTowerRace.mp4",
-            "Priority": 104,
+            "Priority": 101,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
