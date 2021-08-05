@@ -2,19 +2,63 @@
     "ConfigVersion": 1,
     "VideoAdContents": [
         {
-            "ContentId": "CatchupIO",
+            "ContentId": "RailsRoller",
             "Link": {
-                "Url": "https://itunes.apple.com/cn/app/id1487744908?mt=8",
-                "AndroidPackageId": "com.z2game.hurdlesio",
-                "IOSUrlScheme": "btgame1487744908://",
-                "IOSAppId": "1487744908",
-                "IOSPackageId": "com.z2game.hurdlesio"
+                "Url": "https://apps.apple.com/us/app/id1564282166",
+                "AndroidPackageId": "com.z2game.railsballrun",
+                "IOSUrlScheme": "btgame1564282166://",
+                "IOSAppId": "1564282166",
+                "IOSPackageId": "com.z2game.railsballrun"
             },
-            "Title": "Catchup.io",
+            "Title": "Rails Roller",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/Catchup_0.mp4",
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RailsRoller.mp4",
+            "Priority": 104,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "StackCube24",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1561822392",
+                "AndroidPackageId": "com.z2game.stack24",
+                "IOSUrlScheme": "btgame1561822392://",
+                "IOSAppId": "1561822392",
+                "IOSPackageId": "com.z2game.stack24"
+            },
+            "Title": "StackCube24",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/StackCube24.mp4",
+            "Priority": 102,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "UniteNClash",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1556056952",
+                "AndroidPackageId": "com.z2game.uniteandclash",
+                "IOSUrlScheme": "btgame1556056952://",
+                "IOSAppId": "1556056952",
+                "IOSPackageId": "com.z2game.uniteandclash"
+            },
+            "Title": "Unite&Clash",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/uniteNclash.mp4",
             "Priority": 103,
             "Limit": "3/1d",
             "LinkButton": {
@@ -24,19 +68,129 @@
             }
         },
         {
-            "ContentId": "StackHop",
+            "ContentId": "HookRun",
             "Link": {
-                "Url": "https://itunes.apple.com/cn/app/id1478843382?mt=8",
-                "AndroidPackageId": "com.z2game.stackhop",
-                "IOSUrlScheme": "btgame1478843382://",
-                "IOSAppId": "1478843382",
-                "IOSPackageId": "com.z2game.stackhop"
+                "Url": "https://apps.apple.com/us/app/id1550504201",
+                "AndroidPackageId": "com.z2game.hookrun",
+                "IOSUrlScheme": "btgame1550504201://",
+                "IOSAppId": "1550504201",
+                "IOSPackageId": "com.z2game.hookrun"
             },
-            "Title": "Stacky Hop",
+            "Title": "Hook Race",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/StackHop.mp4",
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/HookRun.mp4",
+            "Priority": 100,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "HumanStackBattle",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1514309760",
+                "AndroidPackageId": "com.z2game.seesawbattle",
+                "IOSUrlScheme": "btgame1514309760://",
+                "IOSAppId": "1514309760",
+                "IOSPackageId": "com.z2game.seesawbattle"
+            },
+            "Title": "Stack Battle",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/HumanStackBattle.mp4",
+            "Priority": 101,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "StackTowerRace",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1507131646",
+                "AndroidPackageId": "com.z2game.pileup",
+                "IOSUrlScheme": "btgame1507131646://",
+                "IOSAppId": "1507131646",
+                "IOSPackageId": "com.z2game.pileup"
+            },
+            "Title": "Stack Race",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/StackTowerRace.mp4",
+            "Priority": 104,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "SnakeVortex",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1537976903",
+                "AndroidPackageId": "com.z2game.passvortex",
+                "IOSUrlScheme": "btgame1537976903://",
+                "IOSAppId": "1537976903",
+                "IOSPackageId": "com.z2game.passvortex"
+            },
+            "Title": "Snake Vortex",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/SnakeVortex.mp4",
+            "Priority": 102,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "StairRush",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1535789495",
+                "AndroidPackageId": "com.Z2GAME.StairRoad",
+                "IOSUrlScheme": "btgame1535789495://",
+                "IOSAppId": "1535789495",
+                "IOSPackageId": "com.Z2GAME.StairRoad"
+            },
+            "Title": "Stair Rush",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/StairRush.mp4",
+            "Priority": 105,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "HelixStair",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1539538118",
+                "AndroidPackageId": "com.z2game.helixclimber",
+                "IOSUrlScheme": "btgame1539538118://",
+                "IOSAppId": "1539538118",
+                "IOSPackageId": "com.z2game.helixclimber"
+            },
+            "Title": "Helix Climber",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/HelixStair.mp4",
             "Priority": 102,
             "Limit": "3/1d",
             "LinkButton": {
@@ -57,7 +211,7 @@
             "Title": "Stack Breaker",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/StackFall_P.mp4",
             "Priority": 101,
             "Limit": "3/1d",
@@ -76,13 +230,35 @@
                 "IOSAppId": "1415707157",
                 "IOSPackageId": "mobi.gstudio.game.ZombieCity"
             },
-            "Title": "",
+            "Title": "ZomieCity.io",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/InfectedCity.jpg",
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/InfectedCity_P.mp4",
             "Priority": 101,
             "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "RollyJump",
+            "Link": {
+                "Url": "https://www.taptap.com/app/135465",
+                "AndroidPackageId": "cn.bahamut.game.hophophop",
+                "IOSUrlScheme": "btgame1372395478://",
+                "IOSAppId": "1372395478",
+                "IOSPackageId": "cn.bahamut.game.hophophop"
+            },
+            "Title": "Rolly Jump",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
+            "Priority": 102,
+            "Limit": "2/1d",
             "LinkButton": {
                 "ButtonColor": "",
                 "TextTerm": "",
@@ -98,10 +274,10 @@
                 "IOSAppId": "1415708282",
                 "IOSPackageId": "mobi.gstudio.game.slimeanimal"
             },
-            "Title": "",
+            "Title": "CutePet.io",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/WildChaser.jpg",
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/WildChaser_P.mp4",
             "Priority": 91,
             "Limit": "3/1d",
@@ -120,10 +296,10 @@
                 "IOSAppId": "1436266966",
                 "IOSPackageId": "mobi.gstudio.game.motofly"
             },
-            "Title": "",
+            "Title": " ",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/MotoFly.jpg",
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/MotoFly_P.mp4",
             "Priority": 80,
             "Limit": "2/1d",
@@ -142,57 +318,13 @@
                 "IOSAppId": "1415707597",
                 "IOSPackageId": "mobi.gstudio.game.snakevsrollyblock"
             },
-            "Title": "",
+            "Title": "Rolly Snake",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollySnake.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollySnake_P.mp4",
-            "Priority": 98,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/RollySnake_P.mp4",
+            "Priority": 102,
             "Limit": "2/1d",
-            "LinkButton": {
-                "ButtonColor": "",
-                "TextTerm": "",
-                "TextColor": ""
-            }
-        },
-        {
-            "ContentId": "RollyJump",
-            "Link": {
-                "Url": "https://www.taptap.com/app/135465",
-                "AndroidPackageId": "cn.bahamut.game.hophophop",
-                "IOSUrlScheme": "btgame1372395478://",
-                "IOSAppId": "1372395478",
-                "IOSPackageId": "cn.bahamut.game.hophophop"
-            },
-            "Title": "",
-            "Desc": "",
-            "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
-            "Priority": 99,
-            "Limit": "2/1d",
-            "LinkButton": {
-                "ButtonColor": "",
-                "TextTerm": "",
-                "TextColor": ""
-            }
-        },
-        {
-            "ContentId": "TwistyRush",
-            "Link": {
-                "Url": "https://www.taptap.com/app/135466",
-                "AndroidPackageId": "cn.bahamut.game.colorballsroad",
-                "IOSUrlScheme": "btgame1370929810://",
-                "IOSAppId": "1370929810",
-                "IOSPackageId": "cn.bahamut.game.colorballsroad"
-            },
-            "Title": "",
-            "Desc": "",
-            "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
-            "Priority": 100,
-            "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
                 "TextTerm": "",
@@ -208,12 +340,56 @@
                 "IOSAppId": "1317518650",
                 "IOSPackageId": "cn.bahamut.game.rollingballz"
             },
-            "Title": "",
+            "Title": "Rolling Ballz",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4",
-            "Priority": 97,
+            "Priority": 100,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "TwistyRush",
+            "Link": {
+                "Url": "https://www.taptap.com/app/135466",
+                "AndroidPackageId": "cn.bahamut.game.colorballsroad",
+                "IOSUrlScheme": "btgame1370929810://",
+                "IOSAppId": "1370929810",
+                "IOSPackageId": "cn.bahamut.game.colorballsroad"
+            },
+            "Title": "Color Ball Rush",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/TwistyRush.mp4",
+            "Priority": 105,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "TwistyRoller",
+            "Link": {
+                "Url": "https://www.taptap.com/app/79054",
+                "AndroidPackageId": "cn.bahamut.game.rollingcoaster",
+                "IOSUrlScheme": "btgame1341336378://",
+                "IOSAppId": "1341336378",
+                "IOSPackageId": "cn.bahamut.game.rollingcoaster"
+            },
+            "Title": "Twisty Roller",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/TwistyRoller.mp4",
+            "Priority": 102,
             "Limit": "2/2d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -230,13 +406,13 @@
                 "IOSAppId": "1337445800",
                 "IOSPackageId": "cn.bahamut.game.binballs"
             },
-            "Title": "",
+            "Title": "Bin Balls",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/BinBalls.jpg",
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
-            "Priority": 96,
-            "Limit": "2/2d",
+            "Priority": 95,
+            "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
                 "TextTerm": "",
@@ -252,35 +428,13 @@
                 "IOSAppId": "1358100456",
                 "IOSPackageId": "cn.bahamut.game.skyjump"
             },
-            "Title": "",
+            "Title": "Sky Jump",
             "Desc": "",
             "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump_P.mp4",
-            "Priority": 95,
-            "Limit": "2/2d",
-            "LinkButton": {
-                "ButtonColor": "",
-                "TextTerm": "",
-                "TextColor": ""
-            }
-        },
-        {
-            "ContentId": "TwistyRoller",
-            "Link": {
-                "Url": "https://www.taptap.com/app/79054",
-                "AndroidPackageId": "cn.bahamut.game.rollingcoaster",
-                "IOSUrlScheme": "btgame1341336378://",
-                "IOSAppId": "1341336378",
-                "IOSPackageId": "cn.bahamut.game.rollingcoaster"
-            },
-            "Title": "",
-            "Desc": "",
-            "VideoLoop": false,
-            "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
-            "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
-            "Priority": 94,
-            "Limit": "2/2d",
+            "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
+            "VideoUrl": "http://qiniuvideocdn.btbase.site/SkyJump_P.mp4",
+            "Priority": 104,
+            "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
                 "TextTerm": "",
@@ -292,12 +446,12 @@
         {
             "PlacementId": "Opening",
             "IntervalLimit": "",
-            "Limit": "10/7d"
+            "Limit": "0/7d"
         },
         {
             "PlacementId": "Default",
             "IntervalLimit": "",
-            "Limit": "3/1d"
+            "Limit": "10/7d"
         },
         {
             "PlacementId": "Window",
