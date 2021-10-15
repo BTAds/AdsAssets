@@ -15,7 +15,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RailsRoller.mp4",
-            "Priority": 104,
+            "Priority": 102,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -125,7 +125,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "http://qiniuvideocdn.btbase.site/StackTowerRace.mp4",
-            "Priority": 104,
+            "Priority": 102,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -213,7 +213,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/StackFall_P.mp4",
-            "Priority": 101,
+            "Priority": 104,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -257,7 +257,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
-            "Priority": 102,
+            "Priority": 103,
             "Limit": "2/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -323,7 +323,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "http://qiniuvideocdn.btbase.site/RollySnake_P.mp4",
-            "Priority": 102,
+            "Priority": 104,
             "Limit": "2/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -389,7 +389,7 @@
             "VideoLoop": false,
             "ImageUrl": "http://qiniuimgcdn.btbase.site/AppEmpty.jpg",
             "VideoUrl": "http://qiniuvideocdn.btbase.site/TwistyRoller.mp4",
-            "Priority": 102,
+            "Priority": 103,
             "Limit": "2/2d",
             "LinkButton": {
                 "ButtonColor": "",
