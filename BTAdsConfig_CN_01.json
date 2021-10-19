@@ -402,17 +402,20 @@
         {
             "PlacementId": "Opening",
             "IntervalLimit": "",
-            "Limit": "0/7d"
+            "Limit": "0/7d",
+            "RandomAd": 1
         },
         {
             "PlacementId": "Default",
             "IntervalLimit": "",
-            "Limit": "10/7d"
+            "Limit": "10/7d",
+            "RandomAd": 1
         },
         {
             "PlacementId": "Window",
             "IntervalLimit": "",
-            "Limit": ""
+            "Limit": "",
+            "RandomAd": 0
         }
     ]
 }

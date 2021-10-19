@@ -113,8 +113,21 @@
     "Placements": [
         {
             "PlacementId": "Opening",
-            "IntervalLimit": "2h",
-            "Limit": "10/1d"
+            "IntervalLimit": "",
+            "Limit": "0/7d",
+            "RandomAd": 1
+        },
+        {
+            "PlacementId": "Default",
+            "IntervalLimit": "",
+            "Limit": "10/7d",
+            "RandomAd": 1
+        },
+        {
+            "PlacementId": "Window",
+            "IntervalLimit": "",
+            "Limit": "",
+            "RandomAd": 0
         }
     ]
 }
