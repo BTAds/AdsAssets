@@ -139,7 +139,7 @@
                 "Url": "https://apps.apple.com/us/app/id1537976903",
                 "xAndroidPackageId": "com.z2game.passvortex",
                 "IOSUrlScheme": "btgame1537976903://",
-                "IOSAppId": "1537976903",
+                "xIOSAppId": "1537976903",
                 "IOSPackageId": "com.z2game.passvortex"
             },
             "Title": "Snake Vortex",
