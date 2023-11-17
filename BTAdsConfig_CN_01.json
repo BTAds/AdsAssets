@@ -7,7 +7,7 @@
                 "Url": "https://apps.apple.com/us/app/id1564282166",
                 "AndroidPackageId": "com.z2game.railsballrun",
                 "IOSUrlScheme": "btgame1564282166://",
-                "IOSAppId": "1564282166",
+                "xIOSAppId": "1564282166",
                 "IOSPackageId": "com.z2game.railsballrun"
             },
             "Title": "Rails Roller",
@@ -51,7 +51,7 @@
                 "Url": "https://apps.apple.com/us/app/id1556056952",
                 "xAndroidPackageId": "com.z2game.uniteandclash",
                 "IOSUrlScheme": "btgame1556056952://",
-                "IOSAppId": "1556056952",
+                "xIOSAppId": "1556056952",
                 "IOSPackageId": "com.z2game.uniteandclash"
             },
             "Title": "Unite&Clash",
