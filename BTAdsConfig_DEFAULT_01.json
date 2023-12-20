@@ -5,7 +5,7 @@
             "ContentId": "RailsRoller",
             "Link": {
                 "Url": "https://apps.apple.com/us/app/id1564282166",
-                "AndroidPackageId": "com.z2game.railsballrun",
+                "xAndroidPackageId": "com.z2game.railsballrun",
                 "IOSUrlScheme": "btgame1564282166://",
                 "IOSAppId": "1564282166",
                 "IOSPackageId": "com.z2game.railsballrun"
@@ -27,7 +27,7 @@
             "ContentId": "StackCube24",
             "Link": {
                 "Url": "https://apps.apple.com/us/app/id1561822392",
-                "AndroidPackageId": "com.z2game.stack24",
+                "xAndroidPackageId": "com.z2game.stack24",
                 "IOSUrlScheme": "btgame1561822392://",
                 "IOSAppId": "1561822392",
                 "IOSPackageId": "com.z2game.stack24"
@@ -37,7 +37,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/StackCube24.mp4",
-            "Priority": 102,
+            "Priority": 100,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -81,7 +81,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/HookRun.mp4",
-            "Priority": 100,
+            "Priority": 98,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -93,7 +93,7 @@
             "ContentId": "HumanStackBattle",
             "Link": {
                 "Url": "https://apps.apple.com/us/app/id1514309760",
-                "AndroidPackageId": "com.z2game.towerbattle",
+                "xAndroidPackageId": "com.z2game.towerbattle",
                 "IOSUrlScheme": "btgame1514309760://",
                 "IOSAppId": "1514309760",
                 "IOSPackageId": "com.z2game.seesawbattle"
@@ -103,7 +103,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/HumanStackBattle.mp4",
-            "Priority": 101,
+            "Priority": 97,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -115,7 +115,7 @@
             "ContentId": "StackTowerRace",
             "Link": {
                 "Url": "https://apps.apple.com/us/app/id1507131646",
-                "AndroidPackageId": "com.z2game.pileup",
+                "xAndroidPackageId": "com.z2game.pileup",
                 "IOSUrlScheme": "btgame1507131646://",
                 "IOSAppId": "1507131646",
                 "IOSPackageId": "com.z2game.pileup"
@@ -125,7 +125,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/StackTowerRace.mp4",
-            "Priority": 101,
+            "Priority": 99,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
@@ -235,7 +235,7 @@
             "VideoLoop": false,
             "ImageUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsImage/AppEmpty.jpg",
             "VideoUrl": "https://raw.github.com/BTAds/AdsAssets/master/BTAdsVideo/InfectedCity_P.mp4",
-            "Priority": 101,
+            "Priority": 96,
             "Limit": "3/1d",
             "LinkButton": {
                 "ButtonColor": "",
