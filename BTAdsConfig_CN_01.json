@@ -359,7 +359,7 @@
                 "Url": "https://www.taptap.com/app/79054",
                 "xAndroidPackageId": "cn.bahamut.game.rollingcoaster",
                 "IOSUrlScheme": "btgame1341336378://",
-                "IOSAppId": "1341336378",
+                "xIOSAppId": "1341336378",
                 "IOSPackageId": "cn.bahamut.game.rollingcoaster"
             },
             "Title": "Twisty Roller",
