@@ -227,7 +227,7 @@
                 "Url": "https://itunes.apple.com/cn/app/id1415707157?mt=8",
                 "xAndroidPackageId": "mobi.gstudio.game.ZombieCity",
                 "IOSUrlScheme": "btgame1415707157://",
-                "IOSAppId": "1415707157",
+                "xIOSAppId": "1415707157",
                 "IOSPackageId": "mobi.gstudio.game.ZombieCity"
             },
             "Title": "ZomieCity.io",
@@ -337,7 +337,7 @@
                 "Url": "https://www.taptap.com/app/135466",
                 "xAndroidPackageId": "cn.bahamut.game.colorballsroad",
                 "IOSUrlScheme": "btgame1370929810://",
-                "IOSAppId": "1370929810",
+                "xIOSAppId": "1370929810",
                 "IOSPackageId": "cn.bahamut.game.colorballsroad"
             },
             "Title": "Color Ball Rush",
